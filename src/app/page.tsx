@@ -318,7 +318,7 @@ export default function Home() {
 
         <div className='relative z-10 text-center px-6 max-w-4xl mx-auto'>
           <div className='hidden md:flex justify-center mb-8'>
-            <HeroQRCode url='http://localhost:3000' />
+            <HeroQRCode url='https://radio.reed920.xyz' />
           </div>
           <p className='font-display text-primary text-xs uppercase tracking-widest mb-6'>
             America at 250 · Defining American Identity
